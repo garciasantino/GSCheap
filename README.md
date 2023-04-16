@@ -10,6 +10,6 @@ This contains many steam options from the original game for GSClient users and s
 <ol>
 <li>Autoplay Media Studio 8.5 (with LUA 5.1)</li>
 <li>Original Steam language & models files</li>
-<li>Missing files from <a href="https://gamebanana.com/members/1477661">papaschlange</a></li>
+<li>Missing language files from <a href="https://gamebanana.com/members/1477661">papaschlange</a></li>
 </ol>
 <h3>Thanks for use my program. :)</h3>
