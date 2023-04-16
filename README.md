@@ -1,6 +1,10 @@
 # GSCheap
+<p align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUY4pXmPhSPl3NRXtR5s6ML6wsprpznPt6-smOf4dPa8pKNzWGavmcvWw7bEzJMtT9-t0P1UoELhW_06y_ZO9rOilzsWWuNVhhxCSzHuTb5nOicK1_0p_55Et1Pi5lNsNW7ag64NzBh-VoOyH-O3YDh_-5eSRqUkPZOmBxTOatD8Tct2S55G2dRrte/w256-h256-p-k-no-nu/favicon.ico">
+</p>
+<p align="center">
 <b>Steam properties cheap-copy for GSClient</b> (CS 1.6 Non-Steam Client).
+</p>
 <hr>
 This contains many steam options from the original game for GSClient users and support. Making all much easy to don't require of search any setup that doesn't work.
 <h3>Program menu screenshot:</h3>
