@@ -4,6 +4,8 @@
 <hr>
 This contains many steam options from the original game for GSClient users and support. Making all much easy to don't require of search any setup that doesn't work.
 <hr>
+<h3>Program menu screenshot:</h3>
+<img src="https://images.gamebanana.com/img/ss/tools/6425aac691bf0.jpg">
 <h3>Made by using:</h3>
 <ol>
 <li>Autoplay Media Studio 8.5 (with LUA 5.1)</li>
