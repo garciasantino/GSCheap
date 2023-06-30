@@ -1,4 +1,4 @@
-<img src="http://gscheap.zya.me/gscheap.png">
+<img src="https://i.ibb.co/4Y1PDYW/gscheap.png">
 <p>Steam properties for GSClient | CS 1.6 Tool</p>
 
 <h2>Includes:</h2>
