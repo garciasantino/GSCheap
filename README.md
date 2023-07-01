@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/4Y1PDYW/gscheap.png">
-<p>Steam properties for GSClient | CS 1.6 Tool</p>
+<p><b>Steam properties for GSClient | CS 1.6 Tool</b></p>
 
 <h2>Includes:</h2>
 <ul>
